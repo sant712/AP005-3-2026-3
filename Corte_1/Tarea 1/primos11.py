@@ -1,7 +1,7 @@
 import time
-inicio = time.time()
+inicio = time.time()            # Marca el inicio del cronómetro
 
-for i in range(1,31):
+for i in range(1,31):           # Itera del 1 al 30
     conta = 0
     for n in range(1, i+1):
         residue = i%n
@@ -9,7 +9,7 @@ for i in range(1,31):
             conta = conta + 1              
     if conta == 2:
         print(f'{i} es un primo')
-        print("\n")
+        print("\n")             # Imprime un espacio adicional/salto de línea extra
 
 fin = time.time()
-print("t = ", (fin - inicio)*1000)
+print("t = ", (fin - inicio)*1000)  # Imprime el tiempo total transcurrido
