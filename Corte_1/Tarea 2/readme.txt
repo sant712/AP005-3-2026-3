@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Tarea 2 de ap, listas y tuplas
-=======
-
->>>>>>> d1d75543f4d88598badc8637c96f9f42d3b81ff0
+Tarea 2 de ap, listas, diccionarios y tuplas, link del colab:
+https://colab.research.google.com/drive/1olGbog0VHQ1Kvwd6HDi6Q5n-qUjgXxkE?usp=sharing
