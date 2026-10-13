@@ -1,0 +1,8 @@
+Links de los 6 cuadernos de la primera tarea del cote 1:
+
+1. https://colab.research.google.com/drive/1zi7UUwamJizNFxyB7HdAshCVFq1R7qOD?usp=sharing
+2. https://colab.research.google.com/drive/1T5dMuc6IGTxqrfSmSkF7JmtkkubUldrv?usp=sharing
+3. https://colab.research.google.com/drive/1JzikqQBA6ZL1kLdczPw32GUkxdBbOwy6?usp=sharing
+4. https://colab.research.google.com/drive/1uIOZjm6mvEYi0rZPdnIB79qtyu3cU5Z6?usp=sharing
+5. https://colab.research.google.com/drive/13aSZUgWNyPiz8DSlocJRhgj2LMQMEeIb?usp=sharing
+6. https://colab.research.google.com/drive/1EggmLdG-VG9tCf4r76Xd5QqGeiiA-J0Y?usp=sharing   
