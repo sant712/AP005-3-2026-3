@@ -1,8 +1,8 @@
 Links de los 6 cuadernos de la primera tarea del corte 1:
 
-1. https://www.kaggle.com/code/sant712/notebook8fe5f6f07d
-2. https://www.kaggle.com/code/sant712/notebookb830e1905f
-3. https://www.kaggle.com/code/sant712/notebook4cc1574318
-4. https://www.kaggle.com/code/sant712/practica-4
+1. https://www.kaggle.com/code/sant712/cuaderno1
+2. https://www.kaggle.com/code/sant712/notebookd0ae4f567e
+3. https://www.kaggle.com/code/sant712/cuaderno3
+4. https://www.kaggle.com/code/sant712/practica4
 5. https://www.kaggle.com/code/sant712/practica-5
 6. https://www.kaggle.com/code/sant712/practica-6
